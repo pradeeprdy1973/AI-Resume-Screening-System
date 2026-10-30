@@ -35,7 +35,7 @@ Secure login page for administrators to access the system.
 
 ### Backend
 - Python
-- Django
+- Flask
   
 ### Database
 - Sql
